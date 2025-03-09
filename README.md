@@ -33,5 +33,3 @@ World Bank Population Data
 
 ---
 
-✅ **This README includes everything: installation, execution, visualization, and dataset details.**  
-🚀 Just **paste it into your README.md file on GitHub**, and you're done! 🎉
