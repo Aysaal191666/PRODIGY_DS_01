@@ -12,6 +12,26 @@ This project visualizes the **Top 10 Most Populous Countries** using data from t
 
 ## 🔧 Installation & Usage
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/YOUR-USERNAME/Population-Visualization.git
    cd Population-Visualization
+2. Install dependencies
+   ```
+   pip install -r requirements.txt
+
+3.  Run the script
+    ```
+    python population_distribution.pny
+
+📊 Example Visualization
+Once you run the script, it will generate a bar chart like this:
+
+![Population Chart](population_distribution.png)
+
+📁 Dataset Source
+World Bank Population Data
+
+---
+
+✅ **This README includes everything: installation, execution, visualization, and dataset details.**  
+🚀 Just **paste it into your README.md file on GitHub**, and you're done! 🎉
