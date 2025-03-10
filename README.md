@@ -13,7 +13,7 @@ This project visualizes the **Top 10 Most Populous Countries** using data from t
 ## 🔧 Installation & Usage
 1. **Clone the repository**
    ```
-   git clone https://github.com/YOUR-USERNAME/Population-Visualization.git
+   git clone https://github.com/Aysaal191666/Population-Visualization.git
    cd Population-Visualization
 2. Install dependencies
    ```
